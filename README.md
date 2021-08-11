@@ -34,8 +34,8 @@ A clearer example of how to implement this in **Google Chrome**:
 
 5. Save the snippet:
    eg. 
-   On Windows: CTRL + S
-   On macOS: Command + S
+   On Windows: CTRL + S.
+   On macOS: Command + S.
 
 6. **Run the code**:
    eg.
