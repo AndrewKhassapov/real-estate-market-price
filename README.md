@@ -1,10 +1,11 @@
 # real-estate-market-price
 
-### You are looking at a property on www.realestate.com.au 🏠
-### But there is no listed price, 💲
-### Run this snippet to get an indicative market and advertised price.
+#### You are looking at a property on www.realestate.com.au 🏠
+#### But there is no listed price, 💲
+#### Run this snippet to get an indicative market and advertised price.
 
-This shows the unlisted market price for a property on www.realestate.com.au. 🏠
+
+#### This shows the unlisted market price for a property on www.realestate.com.au. 🏠
 
 #### ❓ How to implement it?
 
