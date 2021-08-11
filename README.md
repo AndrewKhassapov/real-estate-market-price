@@ -28,7 +28,7 @@ A clearer example of how to implement this in **Google Chrome**:
 3. In the **Inspect** menu, go to:
    'Sources' tab \>
    'Snippets' tab \>
-   + New snippet \>
+   \+ New snippet \>
 
 4. Paste the .js code into the snippet.
 
