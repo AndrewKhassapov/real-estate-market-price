@@ -42,7 +42,7 @@ A clearer example of how to implement this in **Google Chrome**:
    On Windows: Ctrl + Enter.
    On macOS: Command + Enter.
 
-#### The advertised price and listing price will display in the console.
+#### The advertised price and listing price will display on the website and console.
 ##### Until the website is changed.
 
-### Valid as of 11th August, 2021.
+### Valid as of 15th August, 2021.
