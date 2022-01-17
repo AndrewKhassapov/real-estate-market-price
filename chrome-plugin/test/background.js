@@ -33,9 +33,6 @@ console.log("Plugin running");
       }
   } 
   
-  // Print the price to the console.
-  // console.log(getRealEstatePrice());
-  
   // Display price on web site.
   displayRealEstatePrice();
   return;
