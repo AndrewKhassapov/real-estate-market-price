@@ -1,14 +1,13 @@
 /*
-* Retunrs the algorithmic advertised and expected listing price
+* Returns the algorithmic advertised and expected listing price
 * for realestate.com.au properties.
+* @returns String Output with RealEstate.com.au algorithmic advertised and expected listing price.
 */
-function getRealEstatePrice()
-{
-    if (REA)
-    {
+function getRealEstatePrice() {
+    if (REA) {
         let adPrice = REA.targeting.ad_price;
         let listPrice = REA.targeting.listing_price;
-        return ("Advertised price: $" + adPrice.replace("_","-") + "\n\nExpected listing price: $" + listPrice.replace("_","-"));
+        return ("Advertised price: $" + adPrice.replace("_", "-") + "\n\nExpected listing price: $" + listPrice.replace("_", "-"));
     }
     return "Realestate.com.au has been updated and this is no longer valid. To be continued!";
 }
@@ -18,18 +17,16 @@ function getRealEstatePrice()
 * if no price is displayed
 * for realestate.com.au properties.
 */
-function displayRealEstatePrice()
-{   
+function displayRealEstatePrice() {
     let element = document.getElementsByClassName("property-price")[0];
-    if(!element.textContent.includes("$"))
-    { 
+    if (!element.textContent.includes("$")) {
         // Display algorithmic price if no price is shown.
         element.textContent = getRealEstatePrice();
     }
 }
 
 // Print the price to the console.
-console.log(getRealEstatePrice());
+//console.log(getRealEstatePrice());
 
 // Display price on web site.
 displayRealEstatePrice();
