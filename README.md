@@ -1,9 +1,10 @@
 # real-estate-market-price
 
 #### You are looking at a property on www.realestate.com.au 🏠
-#### But there is no listed price, 💲
-#### Run this snippet to get an indicative market and advertised price.
 
+#### But there is no listed price, 💲
+
+#### Run this snippet to get an indicative market and advertised price.
 
 #### This shows the unlisted market price for a property on www.realestate.com.au. 🏠
 
@@ -11,7 +12,6 @@
 
 1. Find a property on www.realestate.com.au that you are interested in.
    eg. [this nice property](https://www.realestate.com.au/property-house-vic-beaconsfield+upper-136928382)
-   
 2. Copy, paste and run the code in your browser javascript scratchpad.
 
 #### ❓ What is a javascript scratchpad?
@@ -33,7 +33,7 @@ A clearer example of how to implement this in **Google Chrome**:
 4. Paste the .js code into the snippet.
 
 5. Save the snippet:
-   eg. 
+   eg.
    On Windows: CTRL + S.
    On macOS: Command + S.
 
@@ -43,6 +43,7 @@ A clearer example of how to implement this in **Google Chrome**:
    On macOS: Command + Enter.
 
 #### The advertised price and listing price will display on the website and console.
+
 ##### Until the website is changed.
 
-### Valid as of 15th August, 2021.
+### Valid as of 5 May, 2023.

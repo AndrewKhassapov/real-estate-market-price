@@ -1,8 +1,8 @@
-/*
-* Returns the algorithmic advertised and expected listing price
-* for realestate.com.au properties.
-* @returns String Output with RealEstate.com.au algorithmic advertised and expected listing price.
-*/
+/**
+ * Returns the algorithmic advertised and expected listing price
+ * for realestate.com.au properties.
+ * @returns {string} RealEstate.com.au algorithmic advertised and expected listing price as set by the agent.
+ */
 function getRealEstatePrice() {
     if (REA) {
         let adPrice = REA.targeting.ad_price;
@@ -12,11 +12,11 @@ function getRealEstatePrice() {
     return "Realestate.com.au has been updated and this is no longer valid. To be continued!";
 }
 
-/*
-* Displays the algorithmic prices to the 'property-price' element
-* if no price is displayed
-* for realestate.com.au properties.
-*/
+/**
+ * Displays the algorithmic prices on the 'property-price' element
+ * if no price is displayed
+ * for realestate.com.au properties.
+ */
 function displayRealEstatePrice() {
     let element = document.getElementsByClassName("property-price")[0];
     if (!element.textContent.includes("$")) {
