@@ -11,7 +11,7 @@
 ## ❓ How to implement it?
 
 1. Find a property on www.realestate.com.au that you are interested in.
-   eg. [this nice property](https://www.realestate.com.au/property-house-vic-toorak-142053256)
+   eg. [this nice property](https://www.realestate.com.au/sold/property-house-vic-toorak-125336774)
 2. Copy, paste and run the code in your browser javascript scratchpad.
 
 ## ❓ What is a javascript scratchpad?
@@ -21,7 +21,7 @@ Good question,
 A clearer example of how to implement this in **Google Chrome**:
 
 1. Find a property on www.realestate.com.au that you are interested in.
-   eg. [this nice property](https://www.realestate.com.au/property-house-vic-toorak-142053256)
+   eg. [this nice property](https://www.realestate.com.au/sold/property-house-vic-toorak-125336774)
 
 2. View page source: Right click anywhere > Inspect
 
@@ -44,6 +44,8 @@ A clearer example of how to implement this in **Google Chrome**:
 
 #### The advertised price and listing price will display on the website and console.
 
-##### Until the website is changed.
+#### Until the website is changed.
 
-### :heavy_check_mark: Valid as of 5 May, 2023.
+🚧 Google Chrome browser extension in development.
+
+### :heavy_check_mark: Valid as of 27 November, 2023.
