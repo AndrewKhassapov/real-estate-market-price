@@ -12,7 +12,7 @@
 
 1. Find a property on www.realestate.com.au that you are interested in.
    eg. [this nice property](https://www.realestate.com.au/sold/property-house-vic-toorak-125336774)
-2. Copy, paste and run the code in your browser javascript scratchpad.
+2. Copy, paste and run the 'getRealEstatePrice.js' code in your browser javascript scratchpad.
 
 ![image](https://github.com/AndrewKhassapov/real-estate-market-price/assets/53222142/f24516ef-f1c5-4962-824f-4b8ab93cabb8)
 
